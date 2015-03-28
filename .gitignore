@@ -1,3 +1,5 @@
 node_modules/*
 aws_server.ppk
 LENOVO-2.pem
+config.js
+IFTTT_MSGS/*
